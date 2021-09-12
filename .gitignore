@@ -1,0 +1,14 @@
+venv
+*.pyc
+migrations
+vagrant/.vagrant
+vagrant/site.retry
+vagrant/a4keypair.pem
+.idea/
+*.iml
+.vscode
+app/irsystem/controllers/inverted_idx.json
+app/irsystem/controllers/recipes_clean.json
+app/irsystem/controllers/rate_of_word_occurences_all.json
+.env
+env.bat
